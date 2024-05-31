@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tvSeries</string>
+    <string name="serie1">Stranger Things.</string>
+    <string name="serie2">La Casa de Papel.</string>
+    <string name="serie3">House.</string>
+    <string name="serie4">Anatomia de Grey.</string>
+    <string name="serie5">Vikingos.</string>
+    <string name="serie6">The Walking Dead.</string>
+    <string name="serie7">South Park.</string>
+    <string name="serie8">Los Simpson.</string>
+    <string name="serie9">Breaking Bead.</string>
+    <string name="serie10">Black Mirror.</string>
+</resources>
